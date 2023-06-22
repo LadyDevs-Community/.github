@@ -1,6 +1,7 @@
 <div align='center'>
-<img src="https://user-images.githubusercontent.com/101983495/231708782-bd39f935-d66c-4f62-a29c-674d596eaeef.png" width="400" height="400" /><img/>
+<img src="https://github.com/LadyDevs-Community/.github/assets/101983495/74a61ac0-76f7-4f85-aba6-518e814c5c40" width="400" height="400" /><img/>
 </div>
+
 
 <h1 align="center">Hi 👋, We're LadyDevs!</h1>
 <h4 align="center">We are a developer community of hundreds of tech-savvy women developers!</h4>
